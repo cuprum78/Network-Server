@@ -1,5 +1,5 @@
 # Network-Server
-network server and client code
+network server that checks primality and client code to drive it.
 The server code uses boost::asio for event driven asynchronous code.
 Boost 1.65.0 is built and linked with the source here.
 Do follow the steps listed in the link provided to build boost from source
